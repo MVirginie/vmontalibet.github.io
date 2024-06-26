@@ -1,0 +1,20 @@
+title : "Formation et expérience professionnelle"
+content: Retrouvez mon parcours scolaire et les formations que j'ai suivies
+
+
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : " Juillet 2024-Septembre 2022"
+    content : "Attaché Temporaire d'Enseignement et de Recherche (ATER)\n Part d'enseignement : 192h à l'Enseirb Matmeca \n Part de recherche : Institut de Mathématiques de Bordeaux et Centre Inria de l'université de Bordeaux (Équipe MONC)"
+    style : "solid style2 major fa-envelope"
+
+  # feature item loop
+  - name : "Décembre 2023 - Septembre 2019"
+    content : "Doctorat en mathématiques appliquées à l'Institut de mathématiques de Bordeaux et au centre Inria de l'Université de Bordeaux\n Codirigée par Annabelle Collin et Clair Poignard \n Modélisation mathématique de l'électroporation des membranes bilipidiques : une approche par champ de phase."
+    style : "solid style2 major fa-envelope"
+
+  # feature item loop
+  - name : "2018-2016"
+    content : "Master en Mathématiques et applications- École Normale Supérieure, Lyon, France. \n Spécialité : Équations aux Dérivées Partielles (EDP)"
+    style : "solid style2 major fa-envelope"
